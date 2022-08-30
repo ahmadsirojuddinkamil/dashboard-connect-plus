@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "kamil",
+      "alamat": "Pesanggrahan",
+      "umur": 21,
+      "nohp": "012345678910"
+    },
+
+    {
+      "id": 2,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+
+    {
+      "id": 3,
+      "nama": "sirojuddin",
+      "alamat": "Jakarta",
+      "umur": 23,
+      "nohp": "653893249243"
+    },
+    {
+      "id": 4,
+      "nama": "Rizky",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 5,
+      "nama": "Yogi",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 6,
+      "nama": "Fiqri",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 7,
+      "nama": "Andi",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 8,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 9,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 10,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 11,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 12,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 13,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 14,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 15,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 16,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 17,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 18,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 19,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    },
+    {
+      "id": 20,
+      "nama": "ahmad",
+      "alamat": "Ulujami",
+      "umur": 22,
+      "nohp": "098765432112"
+    }
+  ]
+}
